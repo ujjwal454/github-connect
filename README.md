@@ -8,4 +8,3 @@ Fetch details about a specific repository.
 
 Create an issue in a repository via API request.
 
-This API is designed for easy integration into a portfolio website at /github. The UI is not required; the API simply returns JSON responses.
